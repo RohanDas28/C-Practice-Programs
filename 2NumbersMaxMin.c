@@ -17,5 +17,4 @@ main(){
     else{
         printf("A and B are the same");
     }
-    
 }
