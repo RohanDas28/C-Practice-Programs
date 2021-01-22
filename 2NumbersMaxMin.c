@@ -4,17 +4,14 @@ main(){
     int a,b;
     printf("Enter the two numbers: ");
     scanf("%d %d", &a,&b);
-    if (a!=b){
-        if (a>b)
+    if (a==b){
+    	printf("Both The Numbers Are Same");
+    }
+    else if (a>b)
     {
-        printf("A is Greater Than B");
+        printf("%d is Greater", a);
     }
     else
     {
-        printf("A Less Than B");  
+        printf("%d is Greater", b);  
     }
-    }
-    else{
-        printf("A and B are the same");
-    }
-}
