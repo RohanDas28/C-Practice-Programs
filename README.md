@@ -17,4 +17,4 @@ C Programs:
 13. Write a program to calculate addition, substraction, multiplication, division and modulo operation using switch statement.
 14. Write a program to take a number from the user and check if the number is even or odd.
 ---
-##More Programs will be added soon!
+## More Programs will be added soon!
