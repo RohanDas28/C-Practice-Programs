@@ -16,5 +16,19 @@ C Programs:
 12. Write a program to take a number and check if the number is triple digit same number or not.
 13. Write a program to calculate addition, substraction, multiplication, division and modulo operation using switch statement.
 14. Write a program to take a number from the user and check if the number is even or odd.
+15. Write a program to take a character and check if the character is vowel or consonent.
+16. Write a program to display 1-10 using while loop.
+17. Write a program to display even or odd number from 1-50. 
+18. Write a program to take a number and calculate the sum of digit of a number.
+19. Write a program to take a number and calculate the factorial of that number.
+20. Write a program to take a number and check if the number is palindrome or not.
+21. Write a program to take a number and check if the number is prime or not.
+22. Write a program to display the sum of n numbers where n is given by the user.
+23. Write a program to display nth term Fibonacci series where n is given by the user.
+24. Write a program to display the sum of the series S=1+x +x2 +x3 +x4 +x5 , where the value of x is given by the user.
+25. Write a program to display sum of the series S=1+x +x2/2! +x3/3! +x4/4! +x5/5! + x6/6!, where the value of x is given by the user.
+26. Write a program to display sum of the series S= 1+11+111+1111+11111.
+27. Write a program to display the sum of the series S= 1+12+123+1234+12345.
+28. Write a program to display the series S= 1+22+333+4444+55555.
 ---
 ## More Programs will be added soon!
