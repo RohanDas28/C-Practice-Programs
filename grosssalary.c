@@ -7,5 +7,5 @@ main(){
     HRA= (basicSalary*13)/100;
     TA= (basicSalary*10)/100;
     grossSalary= basicSalary+DA+HRA+TA;
-    printf("%f", grossSalary);
+    printf("The Gross Salary is %f", grossSalary);
 }
