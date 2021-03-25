@@ -5,18 +5,18 @@ main(){
     printf("Enter the numbers: \n");
     scanf("%d %d %d %d %d", &m1,&m2,&m3,&m4,&m5);
     avg=(m1+m2+m3+m4+m5)/5;
-    if (avg>90)
+    if (avg>=90)
     printf("O");
-    else if (avg>80)
+    else if (avg>=80)
     printf("E");
-    else if (avg>70)
+    else if (avg>=70)
     printf("A");
-    else if (avg>60)
+    else if (avg>=60)
     printf("B");
-    else if (avg>50)
+    else if (avg>=50)
     printf("C");
-    else if (avg>40)
+    else if (avg>=40)
     printf("D");
-    else if (avg<40)
+    else
     printf("F");
 }
