@@ -11,8 +11,8 @@ C Programs:
 7. Write a program to calculate the maximum among 3 numbers using conditional operator. ✔ 
 8. Write a program to take basic salary of an employee and then calculate gross salary. DA is 15% of basic salary, HRA is 13% of Basic Salary and TA is 10% of basic salary. ✔
 9. Write a program to calculate the roots of a quadratic equation. ✔
-10. Write a program to calculate the distance between 2 points in a 2D coordinate system.
-11. Write a program to calculate the grade of a student whose 5 marks are given by the user. (Grades: above 90 Grade O, above 80 E, above 70 A, above 60 B, above 50 C, above 40 D, below 40 F)
+10. Write a program to calculate the distance between 2 points in a 2D coordinate system. ✔
+11. Write a program to calculate the grade of a student whose 5 marks are given by the user. (Grades: above 90 Grade O, above 80 E, above 70 A, above 60 B, above 50 C, above 40 D, below 40 F)✔
 12. Write a program to take a number and check if the number is triple digit same number or not.
 13. Write a program to calculate addition, substraction, multiplication, division and modulo operation using switch statement.
 14. Write a program to take a number from the user and check if the number is even or odd.
