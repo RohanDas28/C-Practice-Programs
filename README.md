@@ -13,8 +13,8 @@ C Programs:
 9. Write a program to calculate the roots of a quadratic equation. ✔
 10. Write a program to calculate the distance between 2 points in a 2D coordinate system. ✔
 11. Write a program to calculate the grade of a student whose 5 marks are given by the user. (Grades: above 90 Grade O, above 80 E, above 70 A, above 60 B, above 50 C, above 40 D, below 40 F)✔
-12. Write a program to take a number and check if the number is triple digit same number or not.
-13. Write a program to calculate addition, substraction, multiplication, division and modulo operation using switch statement.
+12. Write a program to take a number and check if the number is triple digit same number or not.✔
+13. Write a program to calculate addition, substraction, multiplication, division and modulo operation using switch statement.✔
 14. Write a program to take a number from the user and check if the number is even or odd.
 15. Write a program to take a character and check if the character is vowel or consonent.
 16. Write a program to display 1-10 using while loop.
